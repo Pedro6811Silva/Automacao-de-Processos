@@ -1,9 +1,7 @@
-# Automa-o-Processos-Administrativos
-Gestao e manipulação de pastas e docs atreves de Automação em Python 
+ 
+# Software Automação de Processos 
 
-# Automação de Processos em Linha de Comando
-
-Este projeto demonstra como automatizar tarefas repetitivas utilizando scripts e ferramentas de linha de comando.  
+Este projeto demonstra como automatizar tarefas repetitivas utilizando scripts e ferramentas de linha de comando manipulação pastas e docs escrito em python e PowerShell.  
 A automação ajuda a aumentar a produtividade, reduzir erros e simplificar fluxos de trabalho.
 
 ## Ilustração
