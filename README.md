@@ -6,7 +6,7 @@ A automação ajuda a aumentar a produtividade, reduzir erros e simplificar flux
 
 ## Ilustração
 
-![Automação de Processos](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Robotic_process_automation_diagram.png/640px-Robotic_process_automation_diagram.png)
+![Análise de Dados](https://media.istockphoto.com/id/1979289147/pt/foto/data-analysis-science-and-big-data-with-ai-technology-analyst-or-scientist-uses-a-computer-and.jpg?s=1024x1024&w=is&k=20&c=D-ge0m2zVKXUcM22BvtwoR39czXKIQXyBpr9sT_xQuE=)
 
 ## Funcionalidades
 - Gestão e manipulação de pastas e documentos
