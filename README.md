@@ -13,6 +13,8 @@ A automação ajuda a aumentar a produtividade, reduzir erros e simplificar flux
 - Execução de rotinas automatizadas
 - Integração com Python para maior flexibilidade
 
+![erro](ImagemAutomação/Captura de tela 2026-05-13 003538.png)
+
 ## Como usar
 1. Clone este repositório
 2. Instale as dependências necessárias
