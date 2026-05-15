@@ -12,8 +12,7 @@ A automação ajuda a aumentar a produtividade, reduzir erros e simplificar flux
 - Integração com Python para maior flexibilidade
 
 
-![erro](ImagemAutomação/Captura de tela 2026-05-13 003538.png)
-
+![erro](ImagemAutomação/Print.png)
 
 
 ## Como usar
